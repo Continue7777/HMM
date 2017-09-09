@@ -1,0 +1,2 @@
+# HMM
+basic hmm 
